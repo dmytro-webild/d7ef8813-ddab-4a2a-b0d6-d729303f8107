@@ -214,7 +214,7 @@ export default function LandingPage() {
         {
           id: "p6",
           brand: "Nexus Tech",
-          name: "Fast Charger Hub",
+          name: "AirPods Pro 3 ",
           price: "$89",
           rating: 5,
           reviewCount: "210",
