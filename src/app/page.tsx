@@ -169,7 +169,7 @@ export default function LandingPage() {
         {
           id: "p1",
           brand: "Nexus Tech",
-          name: "Ultra Smartphone",
+          name: "Iphone  ",
           price: "$999",
           rating: 5,
           reviewCount: "1.2k",
