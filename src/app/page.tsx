@@ -187,7 +187,7 @@ export default function LandingPage() {
         {
           id: "p3",
           brand: "Nexus Tech",
-          name: "Smart Timepiece",
+          name: "Smart Watch",
           price: "$399",
           rating: 4,
           reviewCount: "450",
@@ -196,7 +196,7 @@ export default function LandingPage() {
         {
           id: "p4",
           brand: "Nexus Tech",
-          name: "Wireless Audio Pro",
+          name: "Wireless Pro",
           price: "$299",
           rating: 5,
           reviewCount: "720",
@@ -218,7 +218,7 @@ export default function LandingPage() {
           price: "$89",
           rating: 5,
           reviewCount: "210",
-          imageSrc: "http://img.b2bpic.net/free-photo/horizontal-tempered-glass-phone_187299-48752.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CWKvsU38B31EdepSGqePAOXZHl/uploaded-1776496670120-9wttt2x0.jpg",
         },
       ]}
       title="Electronics Collection"
