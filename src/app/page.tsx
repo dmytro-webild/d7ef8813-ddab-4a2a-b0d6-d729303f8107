@@ -173,7 +173,7 @@ export default function LandingPage() {
           price: "$999",
           rating: 5,
           reviewCount: "1.2k",
-          imageSrc: "http://img.b2bpic.net/free-photo/phone-filming-live-shop_23-2149947474.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CWKvsU38B31EdepSGqePAOXZHl/uploaded-1776496745468-jc06tms8.png",
         },
         {
           id: "p2",
