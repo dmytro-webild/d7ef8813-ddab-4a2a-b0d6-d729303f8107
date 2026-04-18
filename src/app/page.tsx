@@ -205,11 +205,11 @@ export default function LandingPage() {
         {
           id: "p5",
           brand: "Nexus Tech",
-          name: "Tech Tablet",
-          price: "$699",
+          name: "Iphone Case ",
+          price: "$99",
           rating: 4,
           reviewCount: "320",
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-stationary-collection-arrangement_23-2149309635.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CWKvsU38B31EdepSGqePAOXZHl/uploaded-1776496789020-kfsq7gxg.webp",
         },
         {
           id: "p6",
