@@ -133,7 +133,7 @@ export default function LandingPage() {
             "Innovation",
             "Premium",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/laptop-cup-coffee-vase-full-flowers-indoors_181624-31176.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/laptop-cup-coffee-vase-full-flowers-indoors_181624-31176.jpg?_wi=1",
         },
         {
           id: "f2",
@@ -142,7 +142,7 @@ export default function LandingPage() {
             "Performance",
             "Lifestyle",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/wireless-headphones_93675-128034.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/wireless-headphones_93675-128034.jpg?_wi=1",
         },
         {
           id: "f3",
@@ -151,7 +151,7 @@ export default function LandingPage() {
             "Style",
             "Fashion",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/view-elegant-luxurious-wedding-stationery-planner-resources_23-2150166947.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-elegant-luxurious-wedding-stationery-planner-resources_23-2150166947.jpg?_wi=1",
         },
       ]}
       title="Unrivaled Quality"
@@ -173,7 +173,7 @@ export default function LandingPage() {
           price: "$999",
           rating: 5,
           reviewCount: "1.2k",
-          imageSrc: "http://img.b2bpic.net/free-photo/phone-filming-live-shop_23-2149947474.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/phone-filming-live-shop_23-2149947474.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -359,7 +359,7 @@ export default function LandingPage() {
           quote: "Nexus Luxe has the best selection of accessories I've found.",
           tag: "Verified Buyer",
           avatarSrc: "http://img.b2bpic.net/free-photo/horizontal-shot-pretty-young-woman-with-hair-buns-applies-blue-eyeliner-dressed-green-costume-boots-focused-into-distance-daytime-considers-something-people-fashion-style-concept_273609-57101.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/laptop-cup-coffee-vase-full-flowers-indoors_181624-31176.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/laptop-cup-coffee-vase-full-flowers-indoors_181624-31176.jpg?_wi=2",
           imageAlt: "portrait happy customer modern tech",
         },
         {
@@ -370,7 +370,7 @@ export default function LandingPage() {
           quote: "Absolutely obsessed with their perfume collection quality.",
           tag: "Verified Buyer",
           avatarSrc: "http://img.b2bpic.net/free-photo/handsome-young-guy-dressed-black-t-shirt-holds-tablet-computer-isolated-dark-background_613910-18713.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/wireless-headphones_93675-128034.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/wireless-headphones_93675-128034.jpg?_wi=2",
           imageAlt: "portrait happy customer modern tech",
         },
         {
@@ -381,7 +381,7 @@ export default function LandingPage() {
           quote: "Fast shipping and amazing product durability.",
           tag: "Verified Buyer",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-woman-taking-mirror-photo_23-2149241372.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-elegant-luxurious-wedding-stationery-planner-resources_23-2150166947.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-elegant-luxurious-wedding-stationery-planner-resources_23-2150166947.jpg?_wi=2",
           imageAlt: "portrait happy customer modern tech",
         },
         {
@@ -392,7 +392,7 @@ export default function LandingPage() {
           quote: "Quality and style meet perfectly here. Highly recommend.",
           tag: "Verified Buyer",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-turtleneck-with-flower_23-2149020762.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/phone-filming-live-shop_23-2149947474.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/phone-filming-live-shop_23-2149947474.jpg?_wi=2",
           imageAlt: "portrait happy customer modern tech",
         },
       ]}
